@@ -1,2 +1,2 @@
-# AUCTION-Smart-Contract
-Created a smart contract to create auctions ffor nft's
+# MY-Smart-Contract
+TO create Different Smart contracts for fun
